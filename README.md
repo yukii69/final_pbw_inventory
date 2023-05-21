@@ -83,4 +83,4 @@ Proyek Inventory Barang adalah sebuah sistem yang dirancang untuk melacak dan me
 - **Fitur-fitur yang termasuk dalam proyek ini adalah :**
 Pencatatan masuk dan keluar barang. Penambahan, pengeditan, dan penghapusan barang. Pembaruan otomatis stok berdasarkan transaksi. Pengelompokan barang berdasarkan kategori atau jenis. Laporan inventaris untuk melihat stok barang saat ini. Proyek ini bertujuan untuk membantu perusahaan atau organisasi dalam mengelola persediaan barang mereka dengan lebih efisien, mengurangi risiko kekurangan atau kelebihan stok, dan meningkatkan efektivitas operasional secara keseluruhan.
 
-<p align="center"><img src="Screenshot 2023-05-21 125235.png" width="400" alt="gambar"></p>
+<p align="center"><img src="Screenshot 2023-05-21 125235.png" width="1000" alt="gambar"></p>
