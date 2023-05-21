@@ -64,3 +64,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Anggota Kelompok
+
+- **RIZKI RAHMADSYAH (2008001010040)** 
+- **WIN BAHGIE B (2008001010046)** 
+- **CARISSIMA YUZVI AZZAHRA (2008001010017)** 
+- **ULIL AZMI (2008001010044)**
+
+## Deskripsi Project
+
+- **Judul Project :**
+Inventory Barang
+
+- **Deskripsi Project :**
+Proyek Inventory Barang adalah sebuah sistem yang dirancang untuk melacak dan mengelola stok barang dalam suatu perusahaan atau organisasi. Tujuan utama dari proyek ini adalah untuk memberikan visibilitas dan kontrol yang baik terhadap persediaan barang, sehingga memudahkan pengelolaan dan pengawasan. Deskripsi proyek ini adalah sebagai berikut: Proyek Inventory Barang bertujuan untuk mengembangkan sebuah sistem yang memungkinkan perusahaan atau organisasi untuk secara efisien melacak dan mengelola stok barang mereka. Sistem ini akan menyediakan fitur-fitur penting seperti pencatatan masuk dan keluar barang, pembaruan stok secara otomatis, pengelompokan barang berdasarkan kategori atau jenis, dan laporan inventaris yang terperinci. Dengan menggunakan proyek Inventory Barang, pengguna akan dapat memasukkan informasi terkait barang seperti nama barang, kode unik, deskripsi, harga, dan jumlah yang tersedia. Selain itu, sistem ini akan memungkinkan pengguna untuk mengupdate stok barang setiap kali ada transaksi masuk atau keluar.
+
+- **Fitur-fitur yang termasuk dalam proyek ini adalah :**
+Pencatatan masuk dan keluar barang. Penambahan, pengeditan, dan penghapusan barang. Pembaruan otomatis stok berdasarkan transaksi. Pengelompokan barang berdasarkan kategori atau jenis. Laporan inventaris untuk melihat stok barang saat ini. Proyek ini bertujuan untuk membantu perusahaan atau organisasi dalam mengelola persediaan barang mereka dengan lebih efisien, mengurangi risiko kekurangan atau kelebihan stok, dan meningkatkan efektivitas operasional secara keseluruhan.
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1JajznIIWcbxc2Mh1AWwKiyrPdS8EE-wg.png" width="400" alt="gambar"></p>
