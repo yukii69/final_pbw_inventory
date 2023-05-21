@@ -86,8 +86,8 @@ Pencatatan masuk dan keluar barang. Penambahan, pengeditan, dan penghapusan bara
 <p align="center"><img src="Screenshot 2023-05-21 125235.png" width="1000" alt="gambar"></p>
 
 - **Cara Menjalankan :**
-- Jalankan Artisan Migrate
-- Masuk Ke http://127.0.0.1:8000//register
-- Daftar Akun
-- Masuk Ke http://127.0.0.1:8000/login
-- dan Klik Login dan Muncul Tampilan Web Inventory
+ Jalankan Artisan Migrate
+ Masuk Ke http://127.0.0.1:8000//register
+ Daftar Akun
+ Masuk Ke http://127.0.0.1:8000/login
+ dan Klik Login dan Muncul Tampilan Web Inventory
