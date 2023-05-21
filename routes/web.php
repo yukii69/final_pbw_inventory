@@ -17,9 +17,9 @@ use App\Http\Controllers\BarangController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return redirect()->route('login');
+})->middleware('guest');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
